@@ -1,0 +1,33 @@
+h1 {
+    padding: 20px;
+    padding-bottom: 10px;
+    margin: 0%;
+    height: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+    background-color: beige;
+}
+
+.parent {
+    display: inline-flex;
+    margin: 20px;
+}
+
+.recipe {
+    border: 5px solid burlywood;
+    margin: 20px;
+    background-color: beige;
+    padding: 30px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(12, 174, 118);
+    font-size: 20px;
+}
+ .img{
+    margin: 20px;
+    width: 200px;
+    height: 180px;
+ }
